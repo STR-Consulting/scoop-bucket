@@ -1,8 +1,8 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/STR-Consulting/mcp/releases/download/v0.2.1/pacer-mcp_0.2.1_windows_amd64.zip",
+      "url": "https://github.com/STR-Consulting/mcp/releases/download/v0.2.2/pacer-mcp_0.2.2_windows_amd64.zip",
       "hash": ""
     }
   },
