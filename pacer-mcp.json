@@ -1,9 +1,9 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/STR-Consulting/mcp/releases/download/v0.6.0/pacer-mcp_0.6.0_windows_amd64.zip",
-      "hash": "264e2706def0cbab303fe08efc3bf987eaf07e00e133a3dad1e94bb14472844e"
+      "url": "https://github.com/STR-Consulting/mcp/releases/download/v0.7.0/pacer-mcp_0.7.0_windows_amd64.zip",
+      "hash": "35ce369c3c5533a2125339fe89caa8b5a3fd54beda966f9c0785f896a0785303"
     }
   },
   "bin": "pacer-mcp.exe"
